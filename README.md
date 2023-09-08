@@ -4,4 +4,3 @@ Final assignment for the course "Application Development using Microservices and
 
 ## Author(s)
 * Alex Parker
-* 
